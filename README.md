@@ -1,2 +1,3 @@
 # DDOS_WIFI-FAKE-WIFI.
 DDOS_WIFI IS DANGEROUS
+ NOTE : Tool DDOS_WIFI is use Adapter wifi .
